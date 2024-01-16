@@ -1,5 +1,11 @@
 # @hyperlane-xyz/utils
 
+## 3.6.1
+
+### Patch Changes
+
+- 3c298d06: Add isAddress function to check if string matches EVM, Cosmos, or Solana address formats
+
 ## 3.6.0
 
 ## 3.5.1
